@@ -7,7 +7,7 @@ Professora Responsavel pela matéria: Joyce Siqueira  [GitHub](https://github.co
 | --- | --- |
 | Rodrigo Boaventura | Ciência da Computação |
 | Paulo Gustavo | Engenharia de Software |
-| Vinicius Baltazar | Engenharia de Software |
+| Vinicius Baltazar | Ciencia da Computação |
 | Luiz Felipe | Engenharia de Software | 
 | Nycollas Martins| Ciencia da Computação|
 | Andre Luis| Ciência da Computação |
